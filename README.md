@@ -1,6 +1,7 @@
 <!---
 {
   "id": "04c71741-b965-41c0-936d-62f513e73df6",
+  "teaches": "Introduction to PlantUML: Generating Diagrams in Text",
   "depends_on": ["293aa994-02be-42eb-8859-f7e21029a875"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-06-06",
